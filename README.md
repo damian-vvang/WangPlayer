@@ -1,6 +1,6 @@
 # WangPlayer
 
-Simple music player with the working name "Wang Player". It was created using the C # language and the „.NET” environment. The "NAudio" library is a component of the created software that allows the audio stream to be processed. In order to expand the functionality of the application, elements from the "TagLib" library tool palette have also been implemented.
+Simple music player with the working name "Wang Player". It was created using the C# language and the „.NET” environment. The "NAudio" library is a component of the created software that allows the audio stream to be processed. In order to expand the functionality of the application, elements from the "TagLib" library tool palette have also been implemented.
 
 ## Demo
 
