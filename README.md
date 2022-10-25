@@ -8,6 +8,15 @@ Simple music player with the working name "Wang Player". It was created using th
 
 ## Features
 
+- Audio output using DirectSound
+- Supported audio formats: MP3, FLAC, WMA and WAVE
+- Classic user interface (vintage boombox)
+- Output signal indicators (vu-meters)
+- LCD displays that supports dynamic text display
+- Ability to display metadata and audio track parameters
+- Reading files using a dialog box or drag-and-drop functionality
+- Volume control containing a set of graphics
+
 ## Tech Stack
 
 <p align="left"> <a href="https://www.w3schools.com/cs/index.php/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" alt="C#" width="80" height="80"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> </a> <a href="http://www.w3schools.me/aspnetcore/asp-net-core-tutorial" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/768px-.NET_Core_Logo.svg.png" alt="css3" width="80" height="80"/> </a>
