@@ -1,0 +1,15 @@
+C:\Users\Damian\Desktop\NAudio-master\NAudio\bin\Debug\net35\NAudio.dll
+C:\Users\Damian\Desktop\NAudio-master\NAudio\bin\Debug\net35\NAudio.pdb
+C:\Users\Damian\Desktop\NAudio-master\NAudio\obj\Debug\net35\NAudio.csprojAssemblyReference.cache
+C:\Users\Damian\Desktop\NAudio-master\NAudio\obj\Debug\net35\NAudio.Gui.Fader.resources
+C:\Users\Damian\Desktop\NAudio-master\NAudio\obj\Debug\net35\NAudio.Gui.PanSlider.resources
+C:\Users\Damian\Desktop\NAudio-master\NAudio\obj\Debug\net35\NAudio.Gui.Pot.resources
+C:\Users\Damian\Desktop\NAudio-master\NAudio\obj\Debug\net35\NAudio.Gui.VolumeSlider.resources
+C:\Users\Damian\Desktop\NAudio-master\NAudio\obj\Debug\net35\NAudio.Gui.WaveViewer.resources
+C:\Users\Damian\Desktop\NAudio-master\NAudio\obj\Debug\net35\NAudio.Utils.ProgressLog.resources
+C:\Users\Damian\Desktop\NAudio-master\NAudio\obj\Debug\net35\NAudio.csproj.GenerateResource.cache
+C:\Users\Damian\Desktop\NAudio-master\NAudio\obj\Debug\net35\NAudio.csproj.CoreCompileInputs.cache
+C:\Users\Damian\Desktop\NAudio-master\NAudio\obj\Debug\net35\NAudio.AssemblyInfoInputs.cache
+C:\Users\Damian\Desktop\NAudio-master\NAudio\obj\Debug\net35\NAudio.AssemblyInfo.cs
+C:\Users\Damian\Desktop\NAudio-master\NAudio\obj\Debug\net35\NAudio.dll
+C:\Users\Damian\Desktop\NAudio-master\NAudio\obj\Debug\net35\NAudio.pdb

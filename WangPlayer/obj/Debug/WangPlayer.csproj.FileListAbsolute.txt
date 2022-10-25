@@ -1,0 +1,111 @@
+E:\Studia\VII semestr\Praca Inżynierska\WangPlayer\WangPlayer\bin\Debug\WangPlayer.exe.config
+E:\Studia\VII semestr\Praca Inżynierska\WangPlayer\WangPlayer\bin\Debug\WangPlayer.exe
+E:\Studia\VII semestr\Praca Inżynierska\WangPlayer\WangPlayer\bin\Debug\WangPlayer.pdb
+E:\Studia\VII semestr\Praca Inżynierska\WangPlayer\WangPlayer\bin\Debug\Flac Support.dll
+E:\Studia\VII semestr\Praca Inżynierska\WangPlayer\WangPlayer\bin\Debug\NAudio.dll
+E:\Studia\VII semestr\Praca Inżynierska\WangPlayer\WangPlayer\bin\Debug\Flac Support.pdb
+E:\Studia\VII semestr\Praca Inżynierska\WangPlayer\WangPlayer\bin\Debug\NAudio.pdb
+E:\Studia\VII semestr\Praca Inżynierska\WangPlayer\WangPlayer\obj\Debug\WangPlayer.csprojAssemblyReference.cache
+E:\Studia\VII semestr\Praca Inżynierska\WangPlayer\WangPlayer\obj\Debug\WangPlayer.Player.resources
+E:\Studia\VII semestr\Praca Inżynierska\WangPlayer\WangPlayer\obj\Debug\WangPlayer.Properties.Resources.resources
+E:\Studia\VII semestr\Praca Inżynierska\WangPlayer\WangPlayer\obj\Debug\WangPlayer.csproj.GenerateResource.cache
+E:\Studia\VII semestr\Praca Inżynierska\WangPlayer\WangPlayer\obj\Debug\WangPlayer.csproj.CoreCompileInputs.cache
+E:\Studia\VII semestr\Praca Inżynierska\WangPlayer\WangPlayer\obj\Debug\WangPlayer.csproj.CopyComplete
+E:\Studia\VII semestr\Praca Inżynierska\WangPlayer\WangPlayer\obj\Debug\WangPlayer.exe
+E:\Studia\VII semestr\Praca Inżynierska\WangPlayer\WangPlayer\obj\Debug\WangPlayer.pdb
+C:\Users\Damian\Desktop\WangPlayer\WangPlayer\bin\Debug\WangPlayer.exe.config
+C:\Users\Damian\Desktop\WangPlayer\WangPlayer\bin\Debug\WangPlayer.exe
+C:\Users\Damian\Desktop\WangPlayer\WangPlayer\bin\Debug\WangPlayer.pdb
+C:\Users\Damian\Desktop\WangPlayer\WangPlayer\bin\Debug\NAudio.dll
+C:\Users\Damian\Desktop\WangPlayer\WangPlayer\bin\Debug\NAudio.pdb
+C:\Users\Damian\Desktop\WangPlayer\WangPlayer\obj\Debug\WangPlayer.Player.resources
+C:\Users\Damian\Desktop\WangPlayer\WangPlayer\obj\Debug\WangPlayer.Properties.Resources.resources
+C:\Users\Damian\Desktop\WangPlayer\WangPlayer\obj\Debug\WangPlayer.csproj.GenerateResource.cache
+C:\Users\Damian\Desktop\WangPlayer\WangPlayer\obj\Debug\WangPlayer.csproj.CoreCompileInputs.cache
+C:\Users\Damian\Desktop\WangPlayer\WangPlayer\obj\Debug\WangPlayer.csproj.CopyComplete
+C:\Users\Damian\Desktop\WangPlayer\WangPlayer\obj\Debug\WangPlayer.exe
+C:\Users\Damian\Desktop\WangPlayer\WangPlayer\obj\Debug\WangPlayer.pdb
+C:\Users\Damian\Desktop\WangPlayer\WangPlayer\obj\Debug\WangPlayer.csprojAssemblyReference.cache
+C:\Users\Damian\Desktop\WangPlayer\WangPlayer\bin\Debug\policy.2.0.taglib-sharp.dll
+C:\Users\Damian\Desktop\WangPlayer\WangPlayer\bin\Debug\taglib-sharp.dll
+C:\Users\Damian\Desktop\WangPlayer\WangPlayer\bin\Debug\policy.2.0.taglib-sharp.config
+C:\Korepetycje\Damian\Damian\WangPlayer\WangPlayer\bin\Debug\WangPlayer.exe.config
+C:\Korepetycje\Damian\Damian\WangPlayer\WangPlayer\bin\Debug\WangPlayer.exe
+C:\Korepetycje\Damian\Damian\WangPlayer\WangPlayer\bin\Debug\WangPlayer.pdb
+C:\Korepetycje\Damian\Damian\WangPlayer\WangPlayer\bin\Debug\NAudio.dll
+C:\Korepetycje\Damian\Damian\WangPlayer\WangPlayer\bin\Debug\policy.2.0.taglib-sharp.dll
+C:\Korepetycje\Damian\Damian\WangPlayer\WangPlayer\bin\Debug\taglib-sharp.dll
+C:\Korepetycje\Damian\Damian\WangPlayer\WangPlayer\bin\Debug\NAudio.pdb
+C:\Korepetycje\Damian\Damian\WangPlayer\WangPlayer\bin\Debug\policy.2.0.taglib-sharp.config
+C:\Korepetycje\Damian\Damian\WangPlayer\WangPlayer\obj\Debug\WangPlayer.csprojAssemblyReference.cache
+C:\Korepetycje\Damian\Damian\WangPlayer\WangPlayer\obj\Debug\WangPlayer.Player.resources
+C:\Korepetycje\Damian\Damian\WangPlayer\WangPlayer\obj\Debug\WangPlayer.Properties.Resources.resources
+C:\Korepetycje\Damian\Damian\WangPlayer\WangPlayer\obj\Debug\WangPlayer.csproj.GenerateResource.cache
+C:\Korepetycje\Damian\Damian\WangPlayer\WangPlayer\obj\Debug\WangPlayer.csproj.CoreCompileInputs.cache
+C:\Korepetycje\Damian\Damian\WangPlayer\WangPlayer\obj\Debug\WangPlayer.csproj.CopyComplete
+C:\Korepetycje\Damian\Damian\WangPlayer\WangPlayer\obj\Debug\WangPlayer.exe
+C:\Korepetycje\Damian\Damian\WangPlayer\WangPlayer\obj\Debug\WangPlayer.pdb
+E:\Studia\I stopień (Inżynierskie)\VII semestr\Praca Inżynierska\WangPlayer\WangPlayer\bin\Debug\WangPlayer.exe.config
+E:\Studia\I stopień (Inżynierskie)\VII semestr\Praca Inżynierska\WangPlayer\WangPlayer\bin\Debug\WangPlayer.exe
+E:\Studia\I stopień (Inżynierskie)\VII semestr\Praca Inżynierska\WangPlayer\WangPlayer\bin\Debug\WangPlayer.pdb
+E:\Studia\I stopień (Inżynierskie)\VII semestr\Praca Inżynierska\WangPlayer\WangPlayer\bin\Debug\NAudio.dll
+E:\Studia\I stopień (Inżynierskie)\VII semestr\Praca Inżynierska\WangPlayer\WangPlayer\bin\Debug\policy.2.0.taglib-sharp.dll
+E:\Studia\I stopień (Inżynierskie)\VII semestr\Praca Inżynierska\WangPlayer\WangPlayer\bin\Debug\taglib-sharp.dll
+E:\Studia\I stopień (Inżynierskie)\VII semestr\Praca Inżynierska\WangPlayer\WangPlayer\bin\Debug\NAudio.pdb
+E:\Studia\I stopień (Inżynierskie)\VII semestr\Praca Inżynierska\WangPlayer\WangPlayer\bin\Debug\policy.2.0.taglib-sharp.config
+E:\Studia\I stopień (Inżynierskie)\VII semestr\Praca Inżynierska\WangPlayer\WangPlayer\obj\Debug\WangPlayer.csprojAssemblyReference.cache
+E:\Studia\I stopień (Inżynierskie)\VII semestr\Praca Inżynierska\WangPlayer\WangPlayer\obj\Debug\WangPlayer.Player.resources
+E:\Studia\I stopień (Inżynierskie)\VII semestr\Praca Inżynierska\WangPlayer\WangPlayer\obj\Debug\WangPlayer.Properties.Resources.resources
+E:\Studia\I stopień (Inżynierskie)\VII semestr\Praca Inżynierska\WangPlayer\WangPlayer\obj\Debug\WangPlayer.csproj.GenerateResource.cache
+E:\Studia\I stopień (Inżynierskie)\VII semestr\Praca Inżynierska\WangPlayer\WangPlayer\obj\Debug\WangPlayer.csproj.CopyComplete
+E:\Studia\I stopień (Inżynierskie)\VII semestr\Praca Inżynierska\WangPlayer\WangPlayer\obj\Debug\WangPlayer.exe
+E:\Studia\I stopień (Inżynierskie)\VII semestr\Praca Inżynierska\WangPlayer\WangPlayer\obj\Debug\WangPlayer.pdb
+E:\Studia\I stopień (Inżynierskie)\VII semestr\Praca Inżynierska\WangPlayer\WangPlayer\obj\Debug\WangPlayer.csproj.CoreCompileInputs.cache
+C:\Users\homer\Desktop\WangPlayer 2.0\WangPlayer\bin\Debug\WangPlayer.exe.config
+C:\Users\homer\Desktop\WangPlayer 2.0\WangPlayer\bin\Debug\WangPlayer.exe
+C:\Users\homer\Desktop\WangPlayer 2.0\WangPlayer\bin\Debug\WangPlayer.pdb
+C:\Users\homer\Desktop\WangPlayer 2.0\WangPlayer\bin\Debug\NAudio.dll
+C:\Users\homer\Desktop\WangPlayer 2.0\WangPlayer\bin\Debug\policy.2.0.taglib-sharp.dll
+C:\Users\homer\Desktop\WangPlayer 2.0\WangPlayer\bin\Debug\taglib-sharp.dll
+C:\Users\homer\Desktop\WangPlayer 2.0\WangPlayer\bin\Debug\NAudio.pdb
+C:\Users\homer\Desktop\WangPlayer 2.0\WangPlayer\bin\Debug\policy.2.0.taglib-sharp.config
+C:\Users\homer\Desktop\WangPlayer 2.0\WangPlayer\obj\Debug\WangPlayer.csprojAssemblyReference.cache
+C:\Users\homer\Desktop\WangPlayer 2.0\WangPlayer\obj\Debug\WangPlayer.Player.resources
+C:\Users\homer\Desktop\WangPlayer 2.0\WangPlayer\obj\Debug\WangPlayer.Properties.Resources.resources
+C:\Users\homer\Desktop\WangPlayer 2.0\WangPlayer\obj\Debug\WangPlayer.csproj.GenerateResource.cache
+C:\Users\homer\Desktop\WangPlayer 2.0\WangPlayer\obj\Debug\WangPlayer.csproj.CoreCompileInputs.cache
+C:\Users\homer\Desktop\WangPlayer 2.0\WangPlayer\obj\Debug\WangPlayer.csproj.CopyComplete
+C:\Users\homer\Desktop\WangPlayer 2.0\WangPlayer\obj\Debug\WangPlayer.exe
+C:\Users\homer\Desktop\WangPlayer 2.0\WangPlayer\obj\Debug\WangPlayer.pdb
+E:\GitHub Repo's\WangPlayer\WangPlayer\bin\Debug\WangPlayer.exe.config
+E:\GitHub Repo's\WangPlayer\WangPlayer\bin\Debug\WangPlayer.exe
+E:\GitHub Repo's\WangPlayer\WangPlayer\bin\Debug\WangPlayer.pdb
+E:\GitHub Repo's\WangPlayer\WangPlayer\bin\Debug\NAudio.dll
+E:\GitHub Repo's\WangPlayer\WangPlayer\bin\Debug\policy.2.0.taglib-sharp.dll
+E:\GitHub Repo's\WangPlayer\WangPlayer\bin\Debug\taglib-sharp.dll
+E:\GitHub Repo's\WangPlayer\WangPlayer\bin\Debug\NAudio.pdb
+E:\GitHub Repo's\WangPlayer\WangPlayer\bin\Debug\policy.2.0.taglib-sharp.config
+E:\GitHub Repo's\WangPlayer\WangPlayer\obj\Debug\WangPlayer.csprojAssemblyReference.cache
+E:\GitHub Repo's\WangPlayer\WangPlayer\obj\Debug\WangPlayer.Player.resources
+E:\GitHub Repo's\WangPlayer\WangPlayer\obj\Debug\WangPlayer.Properties.Resources.resources
+E:\GitHub Repo's\WangPlayer\WangPlayer\obj\Debug\WangPlayer.csproj.GenerateResource.cache
+E:\GitHub Repo's\WangPlayer\WangPlayer\obj\Debug\WangPlayer.csproj.CoreCompileInputs.cache
+E:\GitHub Repo's\WangPlayer\WangPlayer\obj\Debug\WangPlayer.csproj.CopyComplete
+E:\GitHub Repo's\WangPlayer\WangPlayer\obj\Debug\WangPlayer.exe
+E:\GitHub Repo's\WangPlayer\WangPlayer\obj\Debug\WangPlayer.pdb
+C:\Users\homer\Desktop\WangPlayer\WangPlayer\bin\Debug\WangPlayer.exe.config
+C:\Users\homer\Desktop\WangPlayer\WangPlayer\bin\Debug\WangPlayer.exe
+C:\Users\homer\Desktop\WangPlayer\WangPlayer\bin\Debug\WangPlayer.pdb
+C:\Users\homer\Desktop\WangPlayer\WangPlayer\bin\Debug\NAudio.dll
+C:\Users\homer\Desktop\WangPlayer\WangPlayer\bin\Debug\policy.2.0.taglib-sharp.dll
+C:\Users\homer\Desktop\WangPlayer\WangPlayer\bin\Debug\taglib-sharp.dll
+C:\Users\homer\Desktop\WangPlayer\WangPlayer\bin\Debug\NAudio.pdb
+C:\Users\homer\Desktop\WangPlayer\WangPlayer\bin\Debug\policy.2.0.taglib-sharp.config
+C:\Users\homer\Desktop\WangPlayer\WangPlayer\obj\Debug\WangPlayer.csprojAssemblyReference.cache
+C:\Users\homer\Desktop\WangPlayer\WangPlayer\obj\Debug\WangPlayer.Player.resources
+C:\Users\homer\Desktop\WangPlayer\WangPlayer\obj\Debug\WangPlayer.Properties.Resources.resources
+C:\Users\homer\Desktop\WangPlayer\WangPlayer\obj\Debug\WangPlayer.csproj.GenerateResource.cache
+C:\Users\homer\Desktop\WangPlayer\WangPlayer\obj\Debug\WangPlayer.csproj.CoreCompileInputs.cache
+C:\Users\homer\Desktop\WangPlayer\WangPlayer\obj\Debug\WangPlayer.csproj.CopyComplete
+C:\Users\homer\Desktop\WangPlayer\WangPlayer\obj\Debug\WangPlayer.exe
+C:\Users\homer\Desktop\WangPlayer\WangPlayer\obj\Debug\WangPlayer.pdb
