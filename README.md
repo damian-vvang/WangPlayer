@@ -9,7 +9,7 @@ Simple music player with the working name "Wang Player". It was created using th
 ## Features
 
 - Audio output using DirectSound
-- Supported audio formats: MP3, FLAC, WMA and WAVE
+- Supported audio formats: MP3, FLAC, WMA, and WAVE
 - Classic user interface (vintage boombox)
 - Output signal indicators (vu-meters)
 - LCD displays that supports dynamic text display
