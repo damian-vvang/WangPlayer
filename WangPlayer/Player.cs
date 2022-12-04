@@ -394,19 +394,15 @@ namespace WangPlayer
         // Timer #2 - LCD Data + TimeSlider
         private void timer2_Tick(object sender, EventArgs e)
         {
-            if (audioFile == null)
-            {
-
-            }
-            else
+            if (audioFile != null)
             {
                 timeTrack.Maximum = Convert.ToInt32(audioFile.Length);
                 durrationBitLCD.Text = Convert.ToString(audioFile.Length);
                 currentBitPossitionLCD.Text = Convert.ToString(audioFile.Position);
-                channelsCD.Text = Convert.ToString("Channels: "+audioFile.WaveFormat.Channels);
+                channelsCD.Text = Convert.ToString("Channels: " + audioFile.WaveFormat.Channels);
                 currentTimeLCD.Text = audioFile.CurrentTime.ToString(@"hh\:mm\:ss");
                 durrationTimeLCD.Text = audioFile.TotalTime.ToString(@"hh\:mm\:ss");
-                sampleRateLCD.Text = Convert.ToString("Sample Rate: " + audioFile.WaveFormat.SampleRate+" Hz");
+                sampleRateLCD.Text = Convert.ToString("Sample Rate: " + audioFile.WaveFormat.SampleRate + " Hz");
 
                 if (currentTimeLCD.Text == durrationTimeLCD.Text)
                 {
