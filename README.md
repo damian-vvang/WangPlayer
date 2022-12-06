@@ -2,9 +2,13 @@
 
 Simple music player with the working name "Wang Player". It was created using the C# language and the „.NET” environment. The "NAudio" library is a component of the created software that allows the audio stream to be processed. In order to expand the functionality of the application, elements from the "TagLib" library tool palette have also been implemented.
 
-## Demo
+## Preview - main window
 
 ![preview](https://user-images.githubusercontent.com/116505961/197891209-e994497f-6a5e-4d55-8cdc-14fa59adfb38.gif)
+
+## Adjustable window dimensions
+
+![adjustable_window_dimensions](https://user-images.githubusercontent.com/116505961/205786009-4e4ce26b-d6ff-4aa6-9ffb-a0a7bc58a990.gif)
 
 ## Features
 
