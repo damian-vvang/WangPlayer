@@ -21,14 +21,18 @@ Simple music player with the working name "Wang Player". It was created using th
 - Reading files using a dialog box or drag-and-drop functionality
 - Volume control containing a set of graphics
 
+## Installation:
+
+Run the "WangPlayer.exe" file (available in the "exe" folder).
+
 ## Tech Stack:
 
 <p align="left"> <a href="https://www.w3schools.com/cs/index.php/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" alt="C#" width="80" height="80"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> </a> <a href="http://www.w3schools.me/aspnetcore/asp-net-core-tutorial" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/768px-.NET_Core_Logo.svg.png" alt="css3" width="80" height="80"/> </a>
 
-**NAudio Library:** https://github.com/naudio
+**NAudio Library:** 
 
-**TagLib Library:** https://github.com/taglib
+> https://github.com/naudio
 
-## Installation:
+**TagLib Library:** 
 
-Run the "WangPlayer.exe" file (available in the "exe" folder).
+> https://github.com/taglib
